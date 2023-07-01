@@ -3,7 +3,7 @@ To perform Spark Transformations on bank transactions using a real-time currency
 
 API open exchange rate API - To get the Forex Exchange rates 
 
-<img width="482" alt="Architecture" src="https://github.com/vishalsingh17/SparkBatchProcessingOnAWS/assets/55878408/22598f06-05d4-4bfb-940c-566c902ded2d">
+![image](https://github.com/vishalsingh17/SparkBatchProcessingOnAWS/assets/55878408/18f0f714-8d8c-46c0-9ca7-5fe63c4c6697)
 
 # AWS instance and connecting to it and then installing docker into it 
 
